@@ -6,4 +6,5 @@
 - Projeto prático de acessibilidade (setup do projeto, estruturação da página, testes, contraste, etc.)
 - Leitores de tela (como funcionam, bibliotecas recomendadas e aplicação na prática).
 
-![alt text](image.png)
+![alt text](public/image.png)
+![alt text](public/modal.png)
